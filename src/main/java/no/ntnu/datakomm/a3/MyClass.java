@@ -12,6 +12,10 @@ public class MyClass {
 
     private static void feature2() {
         // TODO - print "Feature #2"
+        int x = 20;
+        int y = 20/2;
+        int z = x * y;
+        System.out.println("The answer is" + z);
     }
 
     private static void feature3() {
