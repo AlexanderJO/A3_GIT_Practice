@@ -8,6 +8,10 @@ public class MyClass {
 
     private static void feature1() {
         // TODO - print "Feature #1"
+        int A = 5;
+        int B = A * 10;
+        int C = A + B;
+        System.out.println("The answer to life is: " + C);
     }
 
     private static void feature2() {
