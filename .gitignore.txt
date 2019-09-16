@@ -35,4 +35,6 @@ target/
 *.idea
 *.xml
 /.idea
+*.idea
+.idea/
 /out
